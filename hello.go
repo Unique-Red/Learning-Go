@@ -1,0 +1,13 @@
+package main
+
+// import other packages
+import (
+	"fmt"
+)
+
+func main(){
+	//fmt.Println("Hello World!")
+	var firstName string = "Redx"
+
+	fmt.Println(firstName)
+}
